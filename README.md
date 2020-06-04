@@ -12,6 +12,7 @@
 
 ## 개발 환경
 • 운영체제: Window 10
+
 • 개발언어 
   - Pycharm
   - MySQL
